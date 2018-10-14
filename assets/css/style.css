@@ -41,6 +41,15 @@ h1 {
     padding-right: 20px;
 }
 
+.banner {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14pt;
+}
+
 footer {
     width: 100%;
     position: fixed;
